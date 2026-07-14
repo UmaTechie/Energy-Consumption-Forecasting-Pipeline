@@ -310,6 +310,6 @@ Energy-Consumption-Forecasting-Pipeline
 
 # 👨‍💻 Author
 
-**Akhilesh Chanda**
+**Nagarikanti Umamaheswari**
 
 Azure Data Engineering Project
